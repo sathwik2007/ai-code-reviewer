@@ -1,0 +1,46 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+coverage/
+.cache/
+
+# Environment files
+.env
+.env.*       # e.g. .env.local, .env.development
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Mac macFUSE mounts and backups
+.fseventsd/
+.Spotlight-V100
+
+# Linux swap
+.*.swp
+
+# Misc
+*.bak
+*.tmp
